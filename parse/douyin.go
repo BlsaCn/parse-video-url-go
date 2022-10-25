@@ -1,9 +1,9 @@
 package parse
 
 import (
+	"github.com/BlsaCn/parse-video-url-go/tools"
 	"github.com/tidwall/gjson"
 	"net/url"
-	"parse-video-url-go/tools"
 	"strings"
 )
 

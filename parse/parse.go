@@ -2,7 +2,7 @@ package parse
 
 import (
 	"errors"
-	"parse-video-url-go/tools"
+	"github.com/BlsaCn/parse-video-url-go/tools"
 	"strings"
 )
 

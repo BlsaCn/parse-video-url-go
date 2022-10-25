@@ -1,4 +1,4 @@
-module parse-video-url-go
+module github.com/BlsaCn/parse-video-url-go
 
 go 1.19
 

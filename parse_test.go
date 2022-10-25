@@ -1,7 +1,7 @@
 package main
 
 import (
-	"parse-video-url-go/parse"
+	"github.com/BlsaCn/parse-video-url-go/parse"
 	"testing"
 )
 

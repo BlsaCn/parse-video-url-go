@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/BlsaCn/parse-video-url-go/parse"
 	"gopkg.in/ffmt.v1"
-	"parse-video-url-go/parse"
 )
 
 func main() {
